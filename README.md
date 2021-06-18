@@ -3,6 +3,7 @@
 * [2021-05-18] 04 | 엔티티 매핑 [velog](https://velog.io/@codehouse/JPA-S4.%EC%97%94%ED%8B%B0%ED%8B%B0-%EB%A7%A4%ED%95%91)
 * [2021-05-27] 05 | 연관관계 매핑 기초 [velog](https://velog.io/@codehouse/JPA-S5.-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EB%A7%A4%ED%95%91-%EA%B8%B0%EC%B4%88)
 * [2021-06-11] 07 | 고급 매핑 [velog](https://velog.io/@codehouse/JPA-S7.-%EA%B3%A0%EA%B8%89-%EB%A7%A4%ED%95%91)
+* [2021-06-15] 08 | 프록시와 연관관계 관리 [velog](https://velog.io/@codehouse/JPA-S8.-%ED%94%84%EB%A1%9D%EC%8B%9C%EC%99%80-%EC%97%B0%EA%B4%80%EA%B4%80%EA%B3%84-%EA%B4%80%EB%A6%AC)
 * [
 ---
 ## 예제 따라하기
